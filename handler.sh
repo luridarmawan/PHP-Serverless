@@ -1,7 +1,10 @@
 #!/bin/sh
+
+# replace with your php cli application
+PHP_APP=helloworld.php
+
 PHP_BIN=/var/task/php71/bin/php
 #PHP_BIN=/usr/bin/php
-PHP_APP=helloworld.php
 handler () {
     set -e
 
