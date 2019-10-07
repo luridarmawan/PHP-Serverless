@@ -1,6 +1,6 @@
 # PHP Serverless
 
-Repositori ini merupakan contoh aplikasi PHP sederhana yang dipasang di Amazon Lambda Serverless menggunakan BASH Lambda Layers.
+Repositori ini merupakan contoh aplikasi PHP sederhana yang dipasang di [Amazon Lambda Serverless](https://aws.amazon.com/id/lambda/) dengan menggunakan BASH [Lambda Layers](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-walkthrough.html). Aplikasi yang dicontohkan adalah aplikasi PHP yang jalan di CLI _(Command Line Interface)_.
 
 ## Installation
 
